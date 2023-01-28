@@ -22,7 +22,8 @@ npm run serve
 ```
 
 ### Данные для входа
+```
 email:test@mail.ru
 password: 123456
-
+```
 
