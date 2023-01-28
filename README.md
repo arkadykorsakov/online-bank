@@ -12,7 +12,7 @@
 2. Создать файл .env 
 3. В файле .env задать значение пременным 
    VUE_APP_FB_KEY=ключ, который генерируется при создании проекта Firebase
-   VUE_APP_FB_URL=url созданного проекта в Firebase
+   VUE_APP_FB_URL=url, созданного проекта в Firebase
 
 ```
 
