@@ -22,7 +22,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-repo/online-bank.git
+   git clone https://github.com/arkadykorsakov/online-bank.git
    cd online-bank
    ```
 
